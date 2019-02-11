@@ -1,2 +1,11 @@
 # Languages
-Reference Cards of few languages (C, C++, Go, Java, Lisp, PHP, HTML, CSS) with examples
+Reference Cards of few languages with examples
+
+- Language C
+- Language C++
+- Language Go
+- Langugae Java
+- Language Lisp
+- Language PHP
+- Language HTML
+- Language CSS
